@@ -3,7 +3,7 @@
 </a>
 你好，我是云深不知处, 爱好生活，喜欢写代码，争取做一个有趣的人
 
-欢迎访问我的[博客](https://yunshenbzc.github.io/)
+欢迎访问我的[博客](https://yunshenOwO.github.io/)
 
 <img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg">
 经常玩的东西
